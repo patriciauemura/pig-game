@@ -5,7 +5,7 @@
 <br>
 <br>
  
- [![Netlify Status](https://api.netlify.com/api/v1/badges/82062079-f126-4b1c-badb-2ae60630e736/deploy-status)](https://app.netlify.com/sites/pig-game-patdev53/deploys) 
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/82062079-f126-4b1c-badb-2ae60630e736/deploy-status)](https://pig-game-patdev53.netlify.app/) 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/patriciauemura/pig-game?color=00995d">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/patriciauemura/pig-game?color=b9d156">	
   <a href="https://github.com/patriciauemura/pig-game/commits/main">
