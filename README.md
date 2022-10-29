@@ -30,7 +30,7 @@ Projeto criado para colocar em prática conhecimentos de HTML, CSS e JavaScript
 
 **In English**
 
-<h1 align="center">Game Pig Game´s Repository</h1>
+<h1 align="center">Pig Game´s Repository</h1>
 
 Project created to put in practice HTML, CSS and JavaScript knowledge.
 
